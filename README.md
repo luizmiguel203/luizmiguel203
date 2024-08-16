@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @luizmiguel203
 - estou interesado em criar jogo para o meus negocios do futuro
 - qualquer coisa
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me
+- 💞️ estou enteresado em colabora com o futuro
+- 📫 entra em contato pelo email
 - 😄 Pronouns: luizmiguel203(a.j)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: não sei
 
 <!---
 luizmiguel203/luizmiguel203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
